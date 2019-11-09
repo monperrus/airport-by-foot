@@ -1,6 +1,6 @@
 # Airport by foot
 
-We share instructions on the feasibility and pleasantness of reaching airports by foot.
+We share instructions on the feasibility and pleasantness of walking to/from airports by foot.
 
 There is one issue per airport, here is [the list](https://github.com/monperrus/airport-by-foot/issues/):
 
