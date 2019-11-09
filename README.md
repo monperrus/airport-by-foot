@@ -22,4 +22,4 @@ To get notifications, you can watch the repository (by clicking on "Watch" at th
 See also
 --------
 
-* travel.stackexchange.com [https://travel.stackexchange.com/questions/tagged/airports+walking](query1) [https://travel.stackexchange.com/questions/tagged/airport-transfer+walking](query2)
+* travel.stackexchange.com [airports+walking](https://travel.stackexchange.com/questions/tagged/airports+walking) [airport-transfer+walking](https://travel.stackexchange.com/questions/tagged/airport-transfer+walking)
