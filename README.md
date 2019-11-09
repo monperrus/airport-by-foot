@@ -12,7 +12,7 @@ There is one issue per airport, here is [the list](https://github.com/monperrus/
 How to contribute
 -----------------
 
-You can:
+First, [create a Github account](https://github.com/join), and then you can:
 
 * create a [new issue](https://github.com/monperrus/airport-by-foot/issues/new) for a new airport
 * comment on an existing one to add information
