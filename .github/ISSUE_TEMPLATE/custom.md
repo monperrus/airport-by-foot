@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Airport by foot
+name: Add a new airport by foot story ✈✈✈✈✈
+about: Duration? Pleasantness? Feasibility?
 title: Airport name, City (airport code) by foot
 labels: ''
 assignees: ''
