@@ -1,18 +1,11 @@
 ---
 name: Add a new airport by foot story ✈✈✈✈✈
 about: Duration? Pleasantness? Feasibility?
-title: Airport name, City (airport code) by foot
+title: Walking to <Airport name, City (airport code)
 labels: ''
 assignees: ''
 
 ---
 
-Duration:
+How pleasant it was? What are the tricky parts? Maybe you have a link to a map?
 
-Pleasantness:
-
-Feasibility:
-
-Map:
-
-Tips:
