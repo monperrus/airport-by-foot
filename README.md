@@ -8,6 +8,9 @@ There is one issue per airport, here is [the list](https://github.com/monperrus/
 * [Berlin Tegel (TXL) by foot](https://github.com/monperrus/airport-by-foot/issues/2)
 * [Oakland (OAK) by foot](https://github.com/monperrus/airport-by-foot/issues/3)
 * [Montreal Trudeau (YUL) by foot](https://github.com/monperrus/airport-by-foot/issues/4)
+* [Hong Kong International Airport (HKG) by foot](https://github.com/monperrus/airport-by-foot/issues/5)
+* [Beijing Capital International Airport (PEK) by foot](https://github.com/monperrus/airport-by-foot/issues/6)
+* [Vladivostok International Airport (VVO) by foot](https://github.com/monperrus/airport-by-foot/issues/7)
 
 How to contribute
 -----------------
