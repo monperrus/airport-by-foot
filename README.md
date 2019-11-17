@@ -19,6 +19,11 @@ First, [create a Github account](https://github.com/join), and then you can:
 
 To get notifications, you can watch the repository (by clicking on "Watch" at the top)
 
+Why Github?
+-----------------
+
+In the past Github was only for software developers. It's not true anymore, Github is a collaboration platform for many things, incl. [art](https://github.com/xtaran/192.168), [hardware](https://github.com/zoff99/ToxPhone), [cooking](https://github.com/Donearm/Cooking-Recipes), [law](https://github.com/JesseKPhillips/USA-Constitution), etc. It has the perfect features for sharing tips about reaching/leaving airports by foot. Ready to [create a Github account](https://github.com/join) and [add an airport](https://github.com/monperrus/airport-by-foot/issues/new)?
+
 See also
 --------
 
